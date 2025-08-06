@@ -1,0 +1,1 @@
+Sentiment Analysis Score: {'neg': 0.037, 'neu': 0.828, 'pos': 0.135, 'compound': 0.9952}
